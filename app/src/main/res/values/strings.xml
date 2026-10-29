@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">Word Counter</string>
+        <string name="eyebrow">MADT · LAB 02</string>
+        <string name="screen_title">Word Counter</string>
+        <string name="screen_subtitle">Explore the numbers behind your text.</string>
+        <string name="input_label">YOUR TEXT</string>
+        <string name="input_hint">Type or paste a few sentences here…</string>
+        <string name="button_calculate">Calculate</string>
+        <string name="button_generate">Generate sample</string>
+        <string name="button_clear">Clear input</string>
+        <string name="results_label">TEXT METRICS</string>
+    <string name="metric_zero">0</string>
+        <string name="sentences_label">Sentences</string>
+        <string name="words_label">Words</string>
+        <string name="punctuation_label">Punctuation</string>
+        <string name="numbers_label">Numbers</string>
+        <string name="history_title">Calculation history</string>
+        <string name="history_description">Saved during this app session · tap a result to reuse its text</string>
+        <string name="history_empty">No calculations yet. Enter some text and tap Calculate.</string>
+        <string name="empty_text_warning">Please enter some text first.</string>
+        <string name="input_cleared">Input cleared.</string>
+        <string name="history_item_format">%1$d. “%2$s”\nSentences: %3$d  ·  Words: %4$d\nPunctuation: %5$d  ·  Numbers: %6$d</string>
+        <string name="history_ellipsis">…</string>
+        <string name="history_item_accessibility">Reuse previous text</string>
+        <string-array name="sample_texts">
+            <item>Good morning! Today is October 14, 2026. Are you ready?</item>
+            <item>The class begins at 9:30. We have 3 exercises, 2 quizzes, and 1 project!</item>
+            <item>Привет, мир! Heute ist Montag. We speak 3 languages.</item>
+            <item>Prices are 12.50 EUR, 24 EUR, and 105 EUR. Which offer is better?</item>
+        </string-array>
+    </resources>

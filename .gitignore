@@ -1,0 +1,34 @@
+# Gradle / Android Studio generated output
+.gradle/
+**/build/
+.idea/
+*.iml
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS / temporary
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+
+# Local packages and test artifacts
+*.apk
+*.aab
+*.hprof
+*.exec
+*.ec
+
+# Do not publish signing keys or credentials
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+
+# Keep gradle/wrapper/gradle-wrapper.jar and wrapper properties in Git.
